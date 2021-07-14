@@ -2,3 +2,4 @@ adding.text file
 test2 time
 test3
 test4
+test5
